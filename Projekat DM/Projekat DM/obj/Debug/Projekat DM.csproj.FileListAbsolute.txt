@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\bin\Debug\Projekat DM.exe.config
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\bin\Debug\Projekat DM.exe
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\bin\Debug\Projekat DM.pdb
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat_DM.Form1.resources
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat_DM.Properties.Resources.resources
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.exe
+C:\Users\PC\source\repos\Projekat DM\Projekat DM\obj\Debug\Projekat DM.pdb
